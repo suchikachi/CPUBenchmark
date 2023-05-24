@@ -1,4 +1,4 @@
-# CPUBenchmark Tool
+# PyMark: CPU Benchmark Tool
 ## Processor efficiency calculator utilising the Sieve of Eratosthenes
 
 Uses prime number generation algorithm 'Sieve of Eratosthenes' to measure the time taken to generate the primes. Gives a general an idea on your CPU's computational capabilities.
